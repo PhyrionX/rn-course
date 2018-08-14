@@ -1,4 +1,4 @@
-#Tue Aug 14 14:25:54 CEST 2018
+#Tue Aug 14 15:58:09 CEST 2018
 base.0=/Users/gabasrub/Workspace/Training/ReactNative/rn-course/android/app/build/intermediates/transforms/dexMerger/debug/19
 path.0=classes.dex
 renamed.0=classes.dex

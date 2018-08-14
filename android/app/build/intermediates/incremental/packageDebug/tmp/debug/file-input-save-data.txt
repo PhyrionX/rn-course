@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Tue Aug 14 14:25:54 CEST 2018
+#Tue Aug 14 15:58:09 CEST 2018
 17.baseType=DIRECTORY
 4.path=lib/armeabi-v7a/libgnustl_shared.so
 25.base=/Users/gabasrub/Workspace/Training/ReactNative/rn-course/android/app/build/intermediates/transforms/mergeJniLibs/debug/0

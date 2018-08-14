@@ -531,6 +531,28 @@
             ]
         },
         {
+            "outputFile": "/Users/gabasrub/Workspace/Training/ReactNative/rn-course/android/app/build/intermediates/res/merged/debug/values-zh-rHK_values-zh-rHK.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/gabasrub/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/87682c3309de7c015c38b022582f7ea1/res/values-zh-rHK/values-zh-rHK.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "284,379,486,609,702,802,884,981,1089,1167,1263,1359,1454,1551,1646,1744,1857,1951",
+                        "endColumns": "94,106,122,92,99,81,96,107,77,95,95,94,96,94,97,112,93,101",
+                        "endOffsets": "374,481,604,697,797,879,976,1084,1162,1258,1354,1449,1546,1641,1739,1852,1946,2048"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,150,257,380,473,573,655,752,860,938,1034,1130,1225,1322,1417,1515,1628,1722",
+                        "endColumns": "94,106,122,92,99,81,96,107,77,95,95,94,96,94,97,112,93,101",
+                        "endOffsets": "145,252,375,468,568,650,747,855,933,1029,1125,1220,1317,1412,1510,1623,1717,1819"
+                    }
+                }
+            ]
+        },
+        {
             "outputFile": "/Users/gabasrub/Workspace/Training/ReactNative/rn-course/android/app/build/intermediates/res/merged/debug/values_values.arsc.flat",
             "map": [
                 {
@@ -610,23 +632,23 @@
             ]
         },
         {
-            "outputFile": "/Users/gabasrub/Workspace/Training/ReactNative/rn-course/android/app/build/intermediates/res/merged/debug/values-zh-rHK_values-zh-rHK.arsc.flat",
+            "outputFile": "/Users/gabasrub/Workspace/Training/ReactNative/rn-course/android/app/build/intermediates/res/merged/debug/values-ur-rPK_values-ur-rPK.arsc.flat",
             "map": [
                 {
-                    "source": "/Users/gabasrub/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/87682c3309de7c015c38b022582f7ea1/res/values-zh-rHK/values-zh-rHK.xml",
+                    "source": "/Users/gabasrub/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/87682c3309de7c015c38b022582f7ea1/res/values-ur-rPK/values-ur-rPK.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "284,379,486,609,702,802,884,981,1089,1167,1263,1359,1454,1551,1646,1744,1857,1951",
-                        "endColumns": "94,106,122,92,99,81,96,107,77,95,95,94,96,94,97,112,93,101",
-                        "endOffsets": "374,481,604,697,797,879,976,1084,1162,1258,1354,1449,1546,1641,1739,1852,1946,2048"
+                        "startOffsets": "284,394,502,625,731,840,926,1030,1150,1235,1343,1452,1554,1665,1765,1873,2002,2100",
+                        "endColumns": "109,107,122,105,108,85,103,119,84,107,108,101,110,99,107,128,97,102",
+                        "endOffsets": "389,497,620,726,835,921,1025,1145,1230,1338,1447,1549,1660,1760,1868,1997,2095,2198"
                     },
                     "to": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,150,257,380,473,573,655,752,860,938,1034,1130,1225,1322,1417,1515,1628,1722",
-                        "endColumns": "94,106,122,92,99,81,96,107,77,95,95,94,96,94,97,112,93,101",
-                        "endOffsets": "145,252,375,468,568,650,747,855,933,1029,1125,1220,1317,1412,1510,1623,1717,1819"
+                        "startOffsets": "55,165,273,396,502,611,697,801,921,1006,1114,1223,1325,1436,1536,1644,1773,1871",
+                        "endColumns": "109,107,122,105,108,85,103,119,84,107,108,101,110,99,107,128,97,102",
+                        "endOffsets": "160,268,391,497,606,692,796,916,1001,1109,1218,1320,1431,1531,1639,1768,1866,1969"
                     }
                 }
             ]
@@ -649,28 +671,6 @@
                         "startOffsets": "55,173,281,404,516,629,717,824,951,1033,1149,1260,1359,1472,1576,1690,1816,1916",
                         "endColumns": "117,107,122,111,112,87,106,126,81,115,110,98,112,103,113,125,99,100",
                         "endOffsets": "168,276,399,511,624,712,819,946,1028,1144,1255,1354,1467,1571,1685,1811,1911,2012"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "/Users/gabasrub/Workspace/Training/ReactNative/rn-course/android/app/build/intermediates/res/merged/debug/values-ur-rPK_values-ur-rPK.arsc.flat",
-            "map": [
-                {
-                    "source": "/Users/gabasrub/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/87682c3309de7c015c38b022582f7ea1/res/values-ur-rPK/values-ur-rPK.xml",
-                    "from": {
-                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "284,394,502,625,731,840,926,1030,1150,1235,1343,1452,1554,1665,1765,1873,2002,2100",
-                        "endColumns": "109,107,122,105,108,85,103,119,84,107,108,101,110,99,107,128,97,102",
-                        "endOffsets": "389,497,620,726,835,921,1025,1145,1230,1338,1447,1549,1660,1760,1868,1997,2095,2198"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,165,273,396,502,611,697,801,921,1006,1114,1223,1325,1436,1536,1644,1773,1871",
-                        "endColumns": "109,107,122,105,108,85,103,119,84,107,108,101,110,99,107,128,97,102",
-                        "endOffsets": "160,268,391,497,606,692,796,916,1001,1109,1218,1320,1431,1531,1639,1768,1866,1969"
                     }
                 }
             ]
@@ -1184,6 +1184,28 @@
             ]
         },
         {
+            "outputFile": "/Users/gabasrub/Workspace/Training/ReactNative/rn-course/android/app/build/intermediates/res/merged/debug/values-ky-rKG_values-ky-rKG.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/gabasrub/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/87682c3309de7c015c38b022582f7ea1/res/values-ky-rKG/values-ky-rKG.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "284,388,496,619,714,833,917,1024,1141,1222,1332,1439,1537,1643,1750,1851,1975,2078",
+                        "endColumns": "103,107,122,94,118,83,106,116,80,109,106,97,105,106,100,123,102,100",
+                        "endOffsets": "383,491,614,709,828,912,1019,1136,1217,1327,1434,1532,1638,1745,1846,1970,2073,2174"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,159,267,390,485,604,688,795,912,993,1103,1210,1308,1414,1521,1622,1746,1849",
+                        "endColumns": "103,107,122,94,118,83,106,116,80,109,106,97,105,106,100,123,102,100",
+                        "endOffsets": "154,262,385,480,599,683,790,907,988,1098,1205,1303,1409,1516,1617,1741,1844,1945"
+                    }
+                }
+            ]
+        },
+        {
             "outputFile": "/Users/gabasrub/Workspace/Training/ReactNative/rn-course/android/app/build/intermediates/res/merged/debug/values-v12_values-v12.arsc.flat",
             "map": [
                 {
@@ -1203,28 +1225,6 @@
                         "endLines": "4,7,8,9",
                         "endColumns": "12,12,118,94",
                         "endOffsets": "274,474,593,688"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "/Users/gabasrub/Workspace/Training/ReactNative/rn-course/android/app/build/intermediates/res/merged/debug/values-ky-rKG_values-ky-rKG.arsc.flat",
-            "map": [
-                {
-                    "source": "/Users/gabasrub/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/87682c3309de7c015c38b022582f7ea1/res/values-ky-rKG/values-ky-rKG.xml",
-                    "from": {
-                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "284,388,496,619,714,833,917,1024,1141,1222,1332,1439,1537,1643,1750,1851,1975,2078",
-                        "endColumns": "103,107,122,94,118,83,106,116,80,109,106,97,105,106,100,123,102,100",
-                        "endOffsets": "383,491,614,709,828,912,1019,1136,1217,1327,1434,1532,1638,1745,1846,1970,2073,2174"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,159,267,390,485,604,688,795,912,993,1103,1210,1308,1414,1521,1622,1746,1849",
-                        "endColumns": "103,107,122,94,118,83,106,116,80,109,106,97,105,106,100,123,102,100",
-                        "endOffsets": "154,262,385,480,599,683,790,907,988,1098,1205,1303,1409,1516,1617,1741,1844,1945"
                     }
                 }
             ]
