@@ -3,6 +3,7 @@ import { StyleSheet, View } from "react-native";
 
 import PlaceInput from "./src/components/PlaceInput/PlaceInput";
 import PlaceList from "./src/components/PlaceList/PlaceList";
+import PlaceDetail from "./src/components/PlaceDetail/PlaceDetail";
 import img from "./src/assets/img.png";
 
 export default class App extends Component {
@@ -37,6 +38,7 @@ export default class App extends Component {
   render() {
     return (
       <View style={styles.container}>
+        {/* <PlaceDetail /> */}
         <PlaceInput onPlaceAdded={this.placeAddedHandler} />
         <PlaceList places={this.state.places} onItemDeleted={this.placeDeletedHandler}/>
       </View>
