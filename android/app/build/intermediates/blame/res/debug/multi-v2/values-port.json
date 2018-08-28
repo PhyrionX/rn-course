@@ -4,15 +4,8 @@
             "outputFile": "/Users/gabasrub/Workspace/Training/ReactNative/rn-course/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml",
             "map": [
                 {
-                    "source": "/Users/gabasrub/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/87682c3309de7c015c38b022582f7ea1/res/values-port/values-port.xml",
+                    "source": "/Users/gabasrub/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/d35e1e90cd578df3ab640f6cd0618609/res/values-port/values-port.xml",
                     "from": {
-                        "startLines": "4",
-                        "startColumns": "4",
-                        "startOffsets": "280",
-                        "endColumns": "55",
-                        "endOffsets": "331"
-                    },
-                    "to": {
                         "startLines": "2",
                         "startColumns": "4",
                         "startOffsets": "55",
